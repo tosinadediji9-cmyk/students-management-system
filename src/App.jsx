@@ -9,7 +9,7 @@ function App() {
        <div className="app-shell">
     <header className="hero-panel">
       <div>
-        <p className="eyebrow">Student Management System</p>
+        <p className="eyebrow">Student Management System By <span className='ayomide-color'>Ayomide</span></p>
         <h1>Track students with confidence.</h1>
         <p>Manage student records, update details, and view your class roster in a polished dashboard.</p>
       </div>
